@@ -390,13 +390,13 @@ const page = () => {
                           className="text-[#000000] font-[Verdana] text-[15px]"
                           align="center"
                         >
-                          1
+                          8
                         </td>
                         <td
                           className="text-[#000000] font-[Verdana] text-[15px]"
                           align="center"
                         >
-                          8
+                          1
                         </td>
                       </tr>
                       <tr>
@@ -502,7 +502,7 @@ const page = () => {
                           <input
                             type="text"
                             className=" bg-[#eee] text-bold text-[15px] w-16 p-3 rounded-lg"
-                            value="7.48"
+                            value="7.35"
                             readonly=""
                           />
                         </td>
