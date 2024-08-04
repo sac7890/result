@@ -282,7 +282,7 @@ const page = () => {
                           className="text-[#000000] font-[Verdana] text-[15px]"
                           align="center"
                         >
-                          4
+                          3
                         </td>
                         <td
                           className="text-[#000000] font-[Verdana] text-[15px] font-bold"
@@ -300,7 +300,7 @@ const page = () => {
                           className="text-[#000000] font-[Verdana] text-[15px]"
                           align="center"
                         >
-                          4
+                          3
                         </td>
                       </tr>
                       <tr>
